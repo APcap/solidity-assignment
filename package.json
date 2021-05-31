@@ -1,0 +1,22 @@
+{
+  "name": "web3-engineering-assignment",
+  "version": "1.0.0",
+  "description": "An assignment for prospective web3 engineers @ SportX.bet",
+  "main": "\"\"",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@0x/dev-utils": "^4.2.1",
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "moment": "^2.22.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "truffle test",
+    "migrate": "truffle migrate"
+  },
+  "author": "Julian Wilson <julian@sportx.bet>",
+  "license": "MIT"
+}
